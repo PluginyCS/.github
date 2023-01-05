@@ -1,17 +1,11 @@
 <div align="center">
-<h1 align="center">Cześć! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px"><p></p>AMXX4u.pl - Pluginy & Paczki CS 1.6</h1>
+<h1 align="center">Cześć! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px"><p></p>AMXX4u.pl - Pluginy & Paczki CS 1.6<p></p></h1>
 
 <img src="https://i.imgur.com/LPsTt48.png"></img>
 
 -------
 
 </div>
-
-<div align="center">
-    <img src="https://discord.com/api/guilds/1016101167404695653/widget.png?style=banner4"><a>
-</div>
-
--------
 
 <div align="center">
 
@@ -30,4 +24,10 @@
 |:------------------------------------------------------------------------  |:---------------------------- |:----------|
 | [DD2 MINI](https://github.com/AMXX4u/report-players)                      | 120 zł                       | Najbardziej klasyczna, aktulnie dostępna paczka Only DD2 z systemem medali, bez leczenia etc.  |
 
+</div>
+
+------------------
+
+<div align="center">
+    <a href="https://discord.amxx4u.pl"><img src="https://discord.com/api/guilds/1016101167404695653/widget.png?style=banner1"></a>
 </div>
