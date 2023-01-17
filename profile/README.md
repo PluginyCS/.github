@@ -23,7 +23,7 @@
 
 | Nazwa Paczki                                                              | Cena <sup>SMA</sup>          | Opis |
 |:------------------------------------------------------------------------  |:---------------------------- |:----------|
-| [DD2 MINI](https://github.com/AMXX4u/report-players)                      | 120 zł                       | Najbardziej klasyczna, aktulnie dostępna paczka Only DD2 z systemem medali, bez leczenia etc.  |
+| [DD2 MINI](https://github.com/AMXX4u/DD2-1)                      | 120 zł                       | Najbardziej klasyczna, aktulnie dostępna paczka Only DD2 z systemem medali, bez leczenia etc.  |
 
 </div>
 
