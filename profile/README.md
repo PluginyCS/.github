@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Cześć! <img src="https://raw.githubusercontent.com/AMXX4u/.github/main/assets/wave.gif" width="32px"><p></p>AMXX4u.pl - Pluginy & Paczki CS 1.6<p></p></h1>
 
-<img src="https://raw.githubusercontent.com/AMXX4u/.github/main/assets/header.png"></img>
+<img src="https://raw.githubusercontent.com/AMXX4u/.github/main/assets/main.png"></img>
 
 -------
 
