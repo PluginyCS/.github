@@ -33,6 +33,8 @@
 | [Client Verification](https://github.com/AMXX4u/client-verification)                                      | [DOWNLOAD](https://github.com/AMXX4u/client-verification/releases/tag/1.0.0)                | Plugin wyrzuca podejrzanych graczy, którzy wchodzą na nietypowych wersjach CS'a
 | [Most Valuable Player](https://github.com/AMXX4u/Most-valuable-player)                                    | [DOWNLOAD](https://github.com/AMXX4u/Most-valuable-player/releases/tag/1.0.0)                        | Najbardziej wartościowy gracz rundy
 | [Skill System](https://github.com/AMXX4u/skill-system)                                    | [DOWNLOAD](https://github.com/AMXX4u/skill-system/releases/tag/1.0.0)                        | System umiejętności.
+| [Money System](https://github.com/AMXX4u/money-system)                                    | [DOWNLOAD](https://github.com/AMXX4u/money-system/releases/tag/1.0.0)                        | System monet / waluta serwerowa pod serwery CS 1.6
+| [Jailbreak VIP](https://github.com/AMXX4u/jailbreak-vip)                                    | [DOWNLOAD](https://github.com/AMXX4u/jailbreak-vip/releases/tag/1.0.0)                        | VIP na serwery Jailbreak
 
 ------------------
 
