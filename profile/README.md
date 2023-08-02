@@ -13,8 +13,8 @@
 
 | Nazwa Pluginu                                                                                             | Cena <sup>SMA</sup>           | Cena <sup>AMXX</sup>  | Opis |
 |:--------------------------------------------------------------------------------------------------------- |:----------------------------  |:----------------------|:----------|
-| [Report Players](https://github.com/AMXX4u/report-players)                                                | 75 zł                 | 45 zł     | System zgłoszeń graczy z serwera CS 1.6 zintegrowany z serwerem Discord 
-| [Contact Administration](https://github.com/AMXX4u/contact-admin)                                    | 55 zł                 | 30 zł     | Kontakt z administracją, pokazujący czy admin jest online / offline 
+| [Report Players](https://github.com/AMXX4u/report-players)                                                | 55 zł                 | 35 zł     | System zgłoszeń graczy z serwera CS 1.6 zintegrowany z serwerem Discord 
+| [Contact Administration](https://github.com/AMXX4u/contact-admin)                                    | 40 zł                 | 25 zł     | Kontakt z administracją, pokazujący czy admin jest online / offline 
 
 -------
 
